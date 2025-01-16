@@ -1,5 +1,7 @@
 <?php
 
+namespace AtCore\CoreRepo\Helpers;
+
 use Illuminate\Pagination\LengthAwarePaginator;
 
 /**
